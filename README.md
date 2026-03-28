@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  Altynx is a high-performance engineering firm specializing in .NET 8 Microservices, Neural AI Frameworks, and Elastic Cloud Infrastructure. We transform complex industries through mission-critical software architecture.
+  Altynx is a technology partner focused on end-to-end digital transformation, helping organizations move from fragmented systems to integrated, data-driven, and scalable ecosystems.
 </p>
 
 ---
 
-### Strategic Tech Stack
+<h3 align="center">Strategic Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
@@ -30,23 +30,28 @@
 
 ---
 
-### Flagship Industry Showcases
-*Explore our proprietary architectures by selecting a sector below.*
+<h3 align="center">Flagship Industry Showcases</h3>
+<p align="center"><i>Explore our proprietary architectures by selecting a sector below.</i></p>
+
+<div align="center">
 
 | Industry | Core Focus | Architecture Link |
 | :--- | :--- | :--- |
-| **Fintech** | Core Banking & Fraud Detection | [Explore Repo →]([https://github.com/Altynx-Engineering/fintech-core-banking-system](https://github.com/altynxdevs-spec/fintech-core-banking-system)) |
-| **HealthTech** | HIPAA Data & AI Diagnostics | [Explore Repo →]([https://github.com/Altynx-Engineering/healthtech-life-sciences-ecosystem](https://github.com/altynxdevs-spec/healthtech-life-sciences-ecosystem)) |
-| **Real Estate** | PropTech & Asset Intelligence | [Explore Repo →]([https://github.com/Altynx-Engineering/real-estate-proptech-ecosystem](https://github.com/altynxdevs-spec/real-estate-proptech-ecosystem)) |
-| **Logistics** | Fleet Tracking & Route AI | [Explore Repo →]([https://github.com/Altynx-Engineering/logistics-supply-chain-ecosystem](https://github.com/altynxdevs-spec/logistics-supply-chain-ecosystem)) |
-| **Energy** | Industrial IoT & Smart Grids | [Explore Repo →]([https://github.com/Altynx-Engineering/energy-manufacturing-ecosystem](https://github.com/altynxdevs-spec/energy-manufacturing-ecosystem)) |
-| **Retail** | Omnichannel & AI Personalization | [Explore Repo →]([https://github.com/Altynx-Engineering/enterprise-retail-ecommerce-ecosystem](https://github.com/altynxdevs-spec/enterprise-retail-ecommerce-ecosystem)) |
+| **Fintech** | Core Banking & Fraud Detection | [Explore Repo →](https://github.com/altynxdevs-spec/fintech-core-banking-system) |
+| **HealthTech** | HIPAA Data & AI Diagnostics | [Explore Repo →](https://github.com/altynxdevs-spec/healthtech-life-sciences-ecosystem) |
+| **Real Estate** | PropTech & Asset Intelligence | [Explore Repo →](https://github.com/altynxdevs-spec/real-estate-proptech-ecosystem) |
+| **Logistics** | Fleet Tracking & Route AI | [Explore Repo →](https://github.com/altynxdevs-spec/logistics-supply-chain-ecosystem) |
+| **Energy** | Industrial IoT & Smart Grids | [Explore Repo →](https://github.com/altynxdevs-spec/energy-manufacturing-ecosystem) |
+| **Retail** | Omnichannel & AI Personalization | [Explore Repo →](https://github.com/altynxdevs-spec/enterprise-retail-ecommerce-ecosystem) |
+
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altynx-Engineering&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Altynx Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altynxdevs-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Altynx Stats" />
 </p>
+
 Altynx is a technology partner focused on end-to-end digital transformation, helping organizations move from fragmented systems to integrated, data-driven, and scalable ecosystems.
 
 ---
