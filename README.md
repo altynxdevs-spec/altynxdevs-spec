@@ -48,10 +48,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altynxdevs-spec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Altynx Stats" />
-</p>
-
 Altynx is a technology partner focused on end-to-end digital transformation, helping organizations move from fragmented systems to integrated, data-driven, and scalable ecosystems.
 
 ---
