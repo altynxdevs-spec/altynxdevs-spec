@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Flagship Industry Showcases
+### Flagship Industry Showcases
 *Explore our proprietary architectures by selecting a sector below.*
 
 | Industry | Core Focus | Architecture Link |
