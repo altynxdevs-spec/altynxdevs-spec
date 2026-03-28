@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Strategic Tech Stack
+### Strategic Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
@@ -35,12 +35,12 @@
 
 | Industry | Core Focus | Architecture Link |
 | :--- | :--- | :--- |
-| **Fintech** | Core Banking & Fraud Detection | [Explore Repo →](https://github.com/Altynx-Engineering/fintech-core-banking-system) |
-| **HealthTech** | HIPAA Data & AI Diagnostics | [Explore Repo →](https://github.com/Altynx-Engineering/healthtech-life-sciences-ecosystem) |
-| **Real Estate** | PropTech & Asset Intelligence | [Explore Repo →](https://github.com/Altynx-Engineering/real-estate-proptech-ecosystem) |
-| **Logistics** | Fleet Tracking & Route AI | [Explore Repo →](https://github.com/Altynx-Engineering/logistics-supply-chain-ecosystem) |
-| **Energy** | Industrial IoT & Smart Grids | [Explore Repo →](https://github.com/Altynx-Engineering/energy-manufacturing-ecosystem) |
-| **Retail** | Omnichannel & AI Personalization | [Explore Repo →](https://github.com/Altynx-Engineering/enterprise-retail-ecommerce-ecosystem) |
+| **Fintech** | Core Banking & Fraud Detection | [Explore Repo →]([https://github.com/Altynx-Engineering/fintech-core-banking-system](https://github.com/altynxdevs-spec/fintech-core-banking-system)) |
+| **HealthTech** | HIPAA Data & AI Diagnostics | [Explore Repo →]([https://github.com/Altynx-Engineering/healthtech-life-sciences-ecosystem](https://github.com/altynxdevs-spec/healthtech-life-sciences-ecosystem)) |
+| **Real Estate** | PropTech & Asset Intelligence | [Explore Repo →]([https://github.com/Altynx-Engineering/real-estate-proptech-ecosystem](https://github.com/altynxdevs-spec/real-estate-proptech-ecosystem)) |
+| **Logistics** | Fleet Tracking & Route AI | [Explore Repo →]([https://github.com/Altynx-Engineering/logistics-supply-chain-ecosystem](https://github.com/altynxdevs-spec/logistics-supply-chain-ecosystem)) |
+| **Energy** | Industrial IoT & Smart Grids | [Explore Repo →]([https://github.com/Altynx-Engineering/energy-manufacturing-ecosystem](https://github.com/altynxdevs-spec/energy-manufacturing-ecosystem)) |
+| **Retail** | Omnichannel & AI Personalization | [Explore Repo →]([https://github.com/Altynx-Engineering/enterprise-retail-ecommerce-ecosystem](https://github.com/altynxdevs-spec/enterprise-retail-ecommerce-ecosystem)) |
 
 ---
 
