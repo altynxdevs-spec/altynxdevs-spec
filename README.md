@@ -1,6 +1,52 @@
-# 🔷 Altynx | Engineering Scalable Technology Ecosystems
-> **Turning complex business problems into high-performance technology solutions.**
+<p align="center">
+  <img src="https://res.cloudinary.com/dojm1aiw2/image/upload/v1774658721/Untitled_ovwydy.png" width="280" alt="Altynx Logo">
+</p>
 
+<h1 align="center">Altynx | Industrial Intelligence & Engineering</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fintech-007FFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HealthTech-26A69A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PropTech-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logistics-00695C?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Altynx is a high-performance engineering firm specializing in .NET 8 Microservices, Neural AI Frameworks, and Elastic Cloud Infrastructure. We transform complex industries through mission-critical software architecture.
+</p>
+
+---
+
+### 🛠️ Strategic Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Flagship Industry Showcases
+*Explore our proprietary architectures by selecting a sector below.*
+
+| Industry | Core Focus | Architecture Link |
+| :--- | :--- | :--- |
+| **Fintech** | Core Banking & Fraud Detection | [Explore Repo →](https://github.com/Altynx-Engineering/fintech-core-banking-system) |
+| **HealthTech** | HIPAA Data & AI Diagnostics | [Explore Repo →](https://github.com/Altynx-Engineering/healthtech-life-sciences-ecosystem) |
+| **Real Estate** | PropTech & Asset Intelligence | [Explore Repo →](https://github.com/Altynx-Engineering/real-estate-proptech-ecosystem) |
+| **Logistics** | Fleet Tracking & Route AI | [Explore Repo →](https://github.com/Altynx-Engineering/logistics-supply-chain-ecosystem) |
+| **Energy** | Industrial IoT & Smart Grids | [Explore Repo →](https://github.com/Altynx-Engineering/energy-manufacturing-ecosystem) |
+| **Retail** | Omnichannel & AI Personalization | [Explore Repo →](https://github.com/Altynx-Engineering/enterprise-retail-ecommerce-ecosystem) |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Altynx-Engineering&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Altynx Stats" />
+</p>
 Altynx is a technology partner focused on end-to-end digital transformation, helping organizations move from fragmented systems to integrated, data-driven, and scalable ecosystems.
 
 ---
